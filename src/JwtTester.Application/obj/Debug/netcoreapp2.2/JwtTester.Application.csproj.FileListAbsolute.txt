@@ -1,0 +1,11 @@
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\bin\Debug\netcoreapp2.2\JwtTester.Application.deps.json
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\bin\Debug\netcoreapp2.2\JwtTester.Application.runtimeconfig.json
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\bin\Debug\netcoreapp2.2\JwtTester.Application.runtimeconfig.dev.json
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\bin\Debug\netcoreapp2.2\JwtTester.Application.dll
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\obj\Debug\netcoreapp2.2\JwtTester.Application.csprojAssemblyReference.cache
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\obj\Debug\netcoreapp2.2\JwtTester.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\obj\Debug\netcoreapp2.2\JwtTester.Application.RazorAssemblyInfo.cache
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\obj\Debug\netcoreapp2.2\JwtTester.Application.RazorAssemblyInfo.cs
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\obj\Debug\netcoreapp2.2\JwtTester.Application.AssemblyInfoInputs.cache
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\obj\Debug\netcoreapp2.2\JwtTester.Application.AssemblyInfo.cs
+D:\Projetos\Testes\JwtTester\src\JwtTester.Application\obj\Debug\netcoreapp2.2\JwtTester.Application.RazorTargetAssemblyInfo.cache
